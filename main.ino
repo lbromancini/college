@@ -83,8 +83,6 @@ sei(); // Habilita as interrupções
       
     }
 
-    // Controle de nível e vazão
-
     // Tarefas do sistema
 
     if (tarefa == 1) {
